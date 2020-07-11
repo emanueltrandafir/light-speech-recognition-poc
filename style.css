@@ -1,0 +1,33 @@
+
+#content{
+    height: 100%;
+    max-width: 900px;
+    background-color: whitesmoke;
+}
+
+.center{
+    text-align: center;
+    margin: auto;
+}
+
+Main{
+    max-width: 700px;
+    margin:auto;
+}
+
+.hidden{
+    display: none;
+}
+
+h2{
+    font-weight: 400
+}
+
+h2 span{
+    font-weight: 100;
+    color: rgb(151, 41, 255)
+}
+
+Header{
+    background-color: rgba(188, 216, 248, 0.301)
+}
